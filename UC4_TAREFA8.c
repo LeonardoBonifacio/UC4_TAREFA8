@@ -3,6 +3,7 @@
 #include "hardware/pwm.h" //biblioteca para controlar o hardware de PWM
 
 #define PWM_SERVO_MOTOR 22 //pino do servo motor conectado a GPIO como PWM
+// Obs para testar as funcionalidades desse código no led azul da bitdogled basta mudar a gpio acima para 12
 
 void mexe_servo_motor_de_0_a_180_e_reverso(){
     uint ciclo_ativo = 625; // Inicializa o ciclo ativo apontado o servo motor a 0 graus ou aonde ele parou após a função main
