@@ -4,7 +4,7 @@
 
 Este projeto controla um servo motor utilizando a Raspberry Pi Pico e o microcontrolador RP2040. O programa configura o PWM para operar a 50 Hz e movimenta o servo de 0 a 180 graus e de volta para 0 graus continuamente.
 
-O desenvolvimento está sendo feito no **Visual Studio Code** vinculado ao **Wokwi**, um simulador online para microcontroladores.
+O desenvolvimento FOI feito no **Visual Studio Code** vinculado ao **Wokwi**, um simulador online para microcontroladores.
 
 ## Requisitos
 
@@ -31,9 +31,8 @@ O desenvolvimento está sendo feito no **Visual Studio Code** vinculado ao **Wok
 
 1. **Abra o VS Code e carregue o projeto.**
 2. **Execute a compilação** do código.
-3. **Carregue o binário na Raspberry Pi Pico** (caso esteja usando hardware real).
-4. **Se estiver no Wokwi**, execute a simulação normalmente.
-5. **O servo se movimentará continuamente** entre 0 e 180 graus com movimentos suaves.
+3. **Se estiver no Wokwi**, execute a simulação normalmente.
+4. **O servo se movimentará continuamente** entre 0 e 180 graus com movimentos suaves.
 
 ## Comportamento do Programa
 
