@@ -1,4 +1,4 @@
-# Controle de Servo Motor com RP2040 e teste de código com Led 12 da placa bitdoglab
+# Controle de Servo Motor com RP2040 e teste de código com Led na GPIO12 da placa bitdoglab
 Link para video : https://youtube.com/shorts/MWYCkpzTuFY?si=I8pdqLyPvKqo1ikA
 ## Descrição
 
