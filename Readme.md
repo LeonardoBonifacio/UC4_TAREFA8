@@ -1,5 +1,5 @@
 # Controle de Servo Motor com RP2040 e teste de código com Led 12 da placa bitdoglab
-
+Link para video : https://youtube.com/shorts/MWYCkpzTuFY?si=I8pdqLyPvKqo1ikA
 ## Descrição
 
 Este projeto controla um servo motor utilizando a Raspberry Pi Pico e o microcontrolador RP2040. O programa configura o PWM para operar a 50 Hz e movimenta o servo de 0 a 180 graus e de volta para 0 graus continuamente.
