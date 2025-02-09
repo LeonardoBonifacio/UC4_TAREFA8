@@ -1,4 +1,4 @@
-# Controle de Servo Motor com RP2040
+# Controle de Servo Motor com RP2040 e teste de código com Led 12 da placa bitdoglab
 
 ## Descrição
 
@@ -28,11 +28,11 @@ O desenvolvimento FOI feito no **Visual Studio Code** vinculado ao **Wokwi**, um
 - Pino do servo motor: **GPIO 22**
 
 ## Como Rodar o Projeto
-
-1. **Abra o VS Code e carregue o projeto.**
-2. **Execute a compilação** do código.
-3. **Se estiver no Wokwi**, execute a simulação normalmente.
-4. **O servo se movimentará continuamente** entre 0 e 180 graus com movimentos suaves.
+1. **Clone este repositorio ou baixa a pasta zip**
+2. **Abra o VS Code e import a pasta como um projeto usando a extensão da raspberry pi pico.**
+3. **Execute a compilação** do código.
+4. **Se estiver no Wokwi**, execute a simulação normalmente.
+5. **O servo se movimentará continuamente** entre 0 e 180 graus com movimentos suaves, após demorar 5 segundos em cada posição no início do programa.
 
 ## Comportamento do Programa
 
@@ -52,4 +52,4 @@ O desenvolvimento FOI feito no **Visual Studio Code** vinculado ao **Wokwi**, um
 | GND               | GND         |
 
 
-
+OBS: Foi utilizado o mesmo código para observar os resultados no led azul conectado ao gpio 12 da bitdoglab.
